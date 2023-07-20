@@ -1,0 +1,12 @@
+h2 {
+    color: rgb(216, 253, 10);
+}
+.close {
+    font-weight: 700;
+    /* background-color: border-box; */
+    color: white;
+    font-size: 23px;
+    width: 50px;
+    border:none;
+    background: none;
+}
